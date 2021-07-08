@@ -1,4 +1,4 @@
-In this repository I'm trying to use to develop a finance logger. So you can have a controll of your finance, if you owe someone money or someone owes you, you can just log them in this format:
+In this repository I'm trying to use typescript to develop a finance logger. So you can have a controll of your finance, if you owe someone money or someone owes you, you can just log them in this format:
 Type: Payment/Invoice
 To / From:
 Details: 
